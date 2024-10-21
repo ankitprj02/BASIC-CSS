@@ -1,0 +1,20 @@
+# Three Types of CSS
+    1.Inline CSS
+    2.Internal or Embedded CSS
+    3.External CSS
+
+# Selector
+    1. Id Selector
+    An id of the element is uniquie on a page to use the id Selector.
+
+    2. Class Selector
+    To use a class Selector you must use (.) followed by class name CSS.
+
+    3. Universal Selector
+    The Universal Selector (*) in CSS is used to select 
+
+    4. Group Selector
+    The Group Selector is used to style all comma-separated element with the same style
+
+    5. CSS [attribute] Selector
+    
